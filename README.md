@@ -1,6 +1,6 @@
 - 👋 Hi, I’m uwakwe chibuike chukwudi
-- 👀 I’m interested in python, javascript
-- 🌱 I’m currently working and learning more in node js
+- 👀 I am fully into backend development using: PHP, Django, Node JS, NestJS...
+- 🌱 I’m aiming to grow and be considered as one of the best.
 - 📫 How to reach me email: uwakwechukwudi32@gmail.com
 
 <!---
